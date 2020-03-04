@@ -1,8 +1,8 @@
-#Target Audience
+# Target Audience
 This blog is focused towards people in their 20s who have been to NYC before and are looking for a local
 experience of hanging out with their friends.
 
-##Experience Guide
+## Experience Guide
 1. Friday
     * Grab a beer at the Slaughter Lamb evening
     * Walk to west 4th, go to Joe's pizza
